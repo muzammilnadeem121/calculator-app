@@ -1,2 +1,2 @@
-# calculator-app-Csharp-.NET framework
- Source code of calculator app
+# calculator-app-C#(.NET framework)
+ Source code of calculator app in C# (.NET Framework).
